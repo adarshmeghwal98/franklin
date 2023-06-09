@@ -37,3 +37,6 @@ main .hero img {
   width: 100%;
   height: 100%;
 }
+.section .default-content-wrapper{
+  text-align: center
+}
