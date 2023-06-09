@@ -61,6 +61,7 @@ header nav p {
 header nav a:any-link {
   color: currentcolor;
   color: #fff;
+  font-family: Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 header nav a:hover {
   text-decoration: none;
